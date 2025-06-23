@@ -6,8 +6,6 @@ import {
   ListChecks, 
   Palette, 
   ArrowRight, 
-  CheckCircle,
-  Zap,
   Target,
   Award
 } from 'lucide-react';

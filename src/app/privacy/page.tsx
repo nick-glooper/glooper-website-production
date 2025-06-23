@@ -5,7 +5,6 @@ import {
   Lock, 
   UserCheck, 
   Globe, 
-  FileText,
   Clock,
   Mail
 } from 'lucide-react';

@@ -4,8 +4,6 @@ import {
   Clock, 
   Mail,
   CreditCard,
-  Shield,
-  Scale,
   Users,
   Handshake,
   AlertCircle,
